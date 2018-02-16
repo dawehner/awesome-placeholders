@@ -13,6 +13,8 @@ web development, test cases and many more.
 * [Place hoff](http://place-hoff.com/)
 * [Kittens](https://placekitten.com/)
 * [Generic tool](https://placeholder.com/)
+* [Morgan fillman](https://morganfillman.space/)
+* [Place bear](https://www.placebear.com)
 
 ### Libraries
 
@@ -20,6 +22,12 @@ web development, test cases and many more.
 
 * [Lorem ipsum](https://www.lipsum.com/)
 * [li europan lingues](https://placeholder.com/text/li-europan-lingues/)  
+* [Cupcake ipsum](http://www.cupcakeipsum.com/)
+* [Samuel L. Ipsum](http://slipsum.com/)
+* [Cheese ipsum](http://www.cheeseipsum.co.uk/)
+* [Cat ipsum](http://www.catipsum.com/)
+* [Pirate ipsum](https://pirateipsum.me/)
+* [Splace ipsum](http://spaceipsum.com/)
 
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
