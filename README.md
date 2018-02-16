@@ -10,6 +10,7 @@ web development, test cases and many more.
 * [Place cage](https://www.placecage.com/)
 * [Fill murry](https://www.fillmurray.com/)
 * [Picture ipsum](https://picsum.photos/)
+* [Place hoff](http://place-hoff.com/)
 * [Kittens](https://placekitten.com/)
 * [Generic tool](https://placeholder.com/)
 
