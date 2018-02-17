@@ -29,6 +29,7 @@ web development, test cases and many more.
 * [Cat ipsum](http://www.catipsum.com/)
 * [Pirate ipsum](https://pirateipsum.me/)
 * [Splace ipsum](http://spaceipsum.com/)
+* [Bavaria ipsum](http://bavaria-ipsum.de)
 
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
