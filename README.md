@@ -16,6 +16,7 @@ web development, test cases and many more.
 * [Morgan fillman](https://morganfillman.space/)
 * [Place bear](https://www.placebear.com)
 * [Taft Test](https://tafttest.com/)
+* [David Hasselhoff](http://place-hoff.com/)
 
 ### Libraries
 
