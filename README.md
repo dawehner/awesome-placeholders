@@ -31,6 +31,9 @@ web development, test cases and many more.
 * [Splace ipsum](http://spaceipsum.com/)
 * [Bavaria ipsum](http://bavaria-ipsum.de)
 
+## JSON
+* [JSON placeholder](https://jsonplaceholder.typicode.come)
+
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
