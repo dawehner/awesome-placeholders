@@ -15,6 +15,8 @@ web development, test cases and many more.
 * [Generic tool](https://placeholder.com/)
 * [Morgan fillman](https://morganfillman.space/)
 * [Place bear](https://www.placebear.com)
+* [Place beard](http://placebeard.it/)
+* [Dog CEO](https://dog.ceo/)
 * [Taft Test](https://tafttest.com/)
 
 ### Libraries
