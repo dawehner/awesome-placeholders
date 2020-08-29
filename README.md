@@ -33,7 +33,7 @@ web development, test cases and many more.
 * [Bavaria ipsum](http://bavaria-ipsum.de)
 
 ## JSON
-* [JSON placeholder](https://jsonplaceholder.typicode.come)
+* [JSON placeholder](https://jsonplaceholder.typicode.com)
 
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
